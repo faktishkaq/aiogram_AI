@@ -6,8 +6,10 @@
 
 Готовые материалы:
 
-- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md) — техническое задание (Markdown)
+- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.pdf`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.pdf) — техническое задание (PDF)
+- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md) — то же ТЗ в Markdown
 - [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.docx`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.docx) — то же ТЗ в Word
+- [`etap-1/generate_pdf.py`](etap-1/generate_pdf.py) — скрипт генерации `.pdf`
 - [`etap-1/generate_tz.py`](etap-1/generate_tz.py) — скрипт генерации `.docx`
 
 Содержание этапа 1:
