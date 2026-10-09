@@ -1,22 +1,15 @@
 # Тема 16. Управление кинотеатром
 
-Проект по проектированию базы данных.
+## Этап 1 — пункты 1–3 (по методичке Stage_1_theory)
 
-## Этап 1. Сбор и анализ требований
+Сделаны только три голубых пункта:
 
-Готовые материалы:
+1. **Изучение предметной области** — процессы и ограничения  
+2. **Роли пользователей** — действия, входные данные, результат, ограничения  
+3. **Бизнес-правила** — 7 формализованных правил  
 
-- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.pdf`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.pdf) — техническое задание (PDF)
-- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md) — то же ТЗ в Markdown
-- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.docx`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.docx) — то же ТЗ в Word
-- [`etap-1/generate_pdf.py`](etap-1/generate_pdf.py) — скрипт генерации `.pdf`
-- [`etap-1/generate_tz.py`](etap-1/generate_tz.py) — скрипт генерации `.docx`
+### Файлы
 
-Содержание этапа 1:
-
-1. Цели и описание предметной области
-2. Роли (администратор, кассир, зритель) и действия
-3. Бизнес-правила BR-1…BR-7
-4. Состав данных и оценка объёмов
-5. Частота операций и требования к производительности
-6. Таблица сущностей и атрибутов
+- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.pdf`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.pdf)
+- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.docx`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.docx)
+- [`etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md`](etap-1/TZ_Etap1_Upravlenie_kinoteatrom.md)
